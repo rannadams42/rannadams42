@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rannadams42, my full name is Rebekah Adams (but feel free to call me Bekah in semi-professionl, informal, or friendly settings)
+- 👋 Hi, I’m @rannadams42, my full name is Rebekah Adams 
 - 👀 I’m interested in biophysics, drug delivery, polymer chemistry.
 - 🌱 I’m currently learning DNA thermodynamics and polymer chemistry
 - 📫 You can reach me via email (raadams@andrew.cmu.edu)
