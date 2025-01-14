@@ -8,4 +8,4 @@ rannadams42/rannadams42 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 
+- I am currently a member of the Electrochemical Decarbonization Lab (Litster Lab) at Carnegie Mellon University
